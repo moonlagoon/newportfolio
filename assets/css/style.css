@@ -47,7 +47,7 @@ body  {
 
 .intro-container p {
     position: relative;
-    top: 300px;
+    top: 320px;
     color: white;
     font-size: 20px;
     width: 45%;
@@ -58,7 +58,7 @@ body  {
 
 .intro-container .me {
     position: relative;
-    top: 10px;
+    top: 40px;
     width: 160px;
     height: 160px;
     padding: 20px;
@@ -77,11 +77,11 @@ body  {
     -webkit-box-shadow: 3px 3px 5px 6px rgb(0, 0, 0, 0.5);
     -moz-box-shadow:    3px 3px 5px 6px rgb(0, 0, 0, 0.5); 
     box-shadow:         3px 3px 5px 6px rgb(0, 0, 0, 0.5);
-    height: 2000px;
+    height: 3500px;
     width: 95%;
     position: absolute;
     left: 2.5%;
-    top: 1150px;
+    top: 1050px;
     vertical-align: middle;
     border-radius: 10px;
 }
@@ -130,7 +130,10 @@ body  {
 
 #skills {
     position: relative;
-    top: 30px;
+    top: 100px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
@@ -142,4 +145,272 @@ body  {
     width: 100px;
 }
 
+#skills h1 {
+    margin-bottom: 20px;
+}
 
+/*---------*/
+
+#work {
+    position: relative;
+    top: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: inline;
+}
+
+#work h1 {
+    margin-bottom: 50px;
+}
+
+#work p {
+    color: grey;
+}
+
+
+
+
+
+/*-------------*/
+
+#postmates {
+    width: 20%;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#postmates img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 25px;
+}
+
+#postmates h4 {
+    font-size: 15px;
+}
+
+/*----------*/
+
+#captel {
+    width: 20%;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#captel img {
+    width: 60px;
+    height: 30px;
+    margin: 20px;
+}
+
+#captel h4 {
+    font-size: 15px;
+}
+
+/*----------*/
+
+#papaj {
+    width: 20%;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#papaj img {
+    width: 80px;
+    height: 80px;
+}
+
+#papaj h4 {
+    font-size: 15px;
+}
+
+/*------------------*/
+
+#education {
+    position: relative;
+    top: 580px;
+    width: 100%;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    display: inline;
+}
+
+#education h1 {
+    margin-bottom: 50px;
+}
+
+#education p {
+    color: grey;
+}
+
+
+
+
+#ucf {
+    width: 30%;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#ucf img {
+    width: 80px;
+    height: 80px;
+}
+
+#ucf h4 {
+    font-size: 15px;
+}
+
+/*------------------------------------*/
+
+#projects {
+    position: relative;
+    top: 800px;
+    width: 100%;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    display: inline;
+}
+
+#projects h1 {
+    margin-bottom: 100px;
+}
+
+#projects p {
+    color: grey;
+}
+
+#projects img {
+    position: relative;
+    border-radius: 20px;
+    width: 140px;
+    height: 70px;
+    background: white;
+    margin-bottom: 20px;
+}
+
+#projects h4 {
+    font-size: 15px;
+}
+
+#projects a {
+    color: rgb(165, 165, 165);
+}
+
+/*----------------*/
+
+#drinkdine {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*--------------------------*/
+
+#trivia {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*---------------------------*/
+
+#kitty {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*------------------------------*/
+
+#psychic {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*-----------------------------*/
+
+#train {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*-----------------------*/
+
+#giphy {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*-------------------*/
+
+#friendfinder {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}  
+
+/*--------------------------*/
+
+#burger {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*--------------------------*/
+
+#clicky {
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+/*--------------------*/
+
+
+
+#contact {
+    position: relative;
+    top: 1000px;
+    width: 100%;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center; 
+}
+
+#contact h1 {
+    margin-bottom: 20px;
+}
+
+#contact p {
+    color: rgb(56, 56, 56);
+}
